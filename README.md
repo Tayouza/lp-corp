@@ -2,7 +2,7 @@
 
 ## Desenvolvi essa Landing Page simples utilizando HTML, CSS e Js com jQuery, simples porém consegui implementar os codígos Js de maneira satisfatória.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fd6bb204-12f8-4909-8f69-8f257fb2da44/deploy-status)](https://aurora-hotel-tayouza.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e224df0b-b880-4c98-aeb6-3b9dc74153e6/deploy-status)](https://lp-corp.netlify.app)
 
 ## Status: ✔️ Concluído.
 
